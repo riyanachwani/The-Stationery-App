@@ -11,6 +11,8 @@ class LoginPage extends StatefulWidget {
   State<LoginPage> createState() => _LoginPageState();
 }
 
+//Email = subhash@gmail.com and Password = subhash123
+
 class _LoginPageState extends State<LoginPage> {
   static Future<User?> login(
       {required String email,
