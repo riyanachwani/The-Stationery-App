@@ -36,4 +36,4 @@ Ensure you have:
 
 - Download the app from [Google Drive](https://drive.google.com/file/d/1O-Tst34LVq2Rb7bVuMRYD4xLtjFljIl8/view?usp=drive_link).
 
-**For the vendor app, please visit the repository: https://github.com/riyanachwani/The-Vendor-App**
+**For the Vendor app, please visit the repository: https://github.com/riyanachwani/The-Vendor-App**
