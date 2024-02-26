@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="# Subhash's App"></a>
-   Subhash's App 💼
+   Subhash's App 📚
 </h1>
 
 ## `Project Title`
