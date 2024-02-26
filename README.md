@@ -31,5 +31,9 @@ Ensure you have:
 - Clone the repository: https://github.com/riyanachwani/The-Stationery-App.git
 - Open the project folder in your preferred IDE.
 - Run the project in your IDE.
-OR
+
+  OR
+
 - Download the app from [Google Drive](https://drive.google.com/file/d/1O-Tst34LVq2Rb7bVuMRYD4xLtjFljIl8/view?usp=drive_link).
+
+**For the vendor app, please visit the repository: https://github.com/riyanachwani/The-Vendor-App**
