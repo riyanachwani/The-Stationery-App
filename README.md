@@ -1,16 +1,39 @@
-# flutter_shop
+<h1 align="center">
+  <a href="# Subhash's App"></a>
+   Subhash's App 📚
+</h1>
 
-A new Flutter project.
+## `Project Title`
+Subhash's App
 
-## Getting Started
+## `Description`
+This mobile application streamlines inventory management for Subhash's stationery store. It simplifies tracking of pencils, pens, and books, empowering Subhash to effortlessly update stock levels. With a user-friendly interface and secure authentication, Subhash efficiently manages inventory, ensuring precise stock control.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## `Features`
+- **Effortless Inventory Tracking**: Simplifies tracking for pencils, pens, and books, enabling easy stock level updates.
+- **User-Friendly Interface**: Provides an intuitive interface for smooth navigation and operation.
+- **Secure Authentication**: Implements robust authentication to safeguard inventory data and access control.
+- **Real-time Updates**: Receive real-time updates on inventory changes, ensuring accurate stock management.
+- **Customizable Settings**: Customize settings to tailor the app to your specific inventory management needs.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## `Prerequisites`
+Ensure you have:
+- A smartphone or tablet device
+- Internet connectivity for initial setup and data synchronization
+
+## `Tech Stack Used`
+- Flutter (+Dart)
+- Firebase
+
+## `Installation`
+- Clone the repository: https://github.com/riyanachwani/The-Stationery-App.git
+- Open the project folder in your preferred IDE.
+- Run the project in your IDE.
+
+  OR
+
+- Download the app from [Google Drive](https://drive.google.com/file/d/1O-Tst34LVq2Rb7bVuMRYD4xLtjFljIl8/view?usp=drive_link).
+
+**For the Vendor app, please visit the repository: https://github.com/riyanachwani/The-Vendor-App**
