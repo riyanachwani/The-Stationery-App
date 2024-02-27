@@ -6,6 +6,7 @@ import "widget/themes.dart";
 import 'pages/home_page.dart';
 
 void main() async {
+
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp().then((_) {
     print("Firebase initialized successfully!");
