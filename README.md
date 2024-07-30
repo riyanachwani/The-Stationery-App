@@ -1,10 +1,10 @@
 <h1 align="center">
-  <a href="# Subhash's App"></a>
-   Subhash's App 📚
+  <a href="#stationery-store-app1"></a>
+   The Stationery App 📚
 </h1>
 
 ## `Project Title`
-Subhash's App
+Subhash’s Inventory Hub
 
 ## `Description`
 This mobile application streamlines inventory management for Subhash's stationery store. It simplifies tracking of pencils, pens, and books, empowering Subhash to effortlessly update stock levels. With a user-friendly interface and secure authentication, Subhash efficiently manages inventory, ensuring precise stock control.
@@ -28,7 +28,10 @@ Ensure you have:
 - Firebase
 
 ## `Installation`
-- Clone the repository: https://github.com/riyanachwani/The-Stationery-App.git
+- Clone the repository:
+```bash
+   git clone https://github.com/riyanachwani/The-Stationery-App.git
+```
 - Open the project folder in your preferred IDE.
 - Run the project in your IDE.
 
